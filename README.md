@@ -1,10 +1,27 @@
 # Below list of tools are to help with exploratory testing
 
 ## Bug related tools:
+* [Bug Magnet](https://bugmagnet.org/): Bug magnet is a web-based testing tool that can be extended in the web-browser.Bug-magnet works on the input fields, text areas, and multi-frames of the same domain.  
 
-## Dev tools:
+## Screen Capture:
+*[Screencastify]():
+*[Greenshot]():
+*[Jing]():
 
-## Productivity tools:
+## Browser plugins and extensions:
+
+* **Fiddler:**
+* **Accessibility Developer Tools:**
+
+## Text Editors:
+
+
+## Diagramic Tools:
+
+[XMind](https://www.xmind.net/) : Excellent mind mapping tools to help explore and map the heuristic on exploratory testing. This is paid tool after free trial
+[Draw.io](https://www.draw.io/): Online diagram maker which can be used for flowchart, network diagram etc
+
+
 
 ## Text Tools: 
 * [Letter Count](https://www.lettercount.com/): This tool will count the characters or words in a block of text. I use it for creating strings with a specific character count when I test text fields.
