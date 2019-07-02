@@ -1,17 +1,31 @@
 # Below list of tools are to help with exploratory testing
 
+## API Testing Tools :
+* [httpmaster](https://www.httpmaster.net/) - Master API & Web Testing
+* [soapUI](https://www.soapui.org/) - The Most Advanced REST & SOAP Testing Tool in the World
+* [RestClient](https://github.com/wiztools/rest-client):  Tool to test HTTP/RESTful webservices.
+* [Postman](https://www.getpostman.com/) : Very versatile REST API client testing platform
+
+
 ## Bug related tools:
 * [Bug Magnet](https://bugmagnet.org/): Bug magnet is a web-based testing tool that can be extended in the web-browser.Bug-magnet works on the input fields, text areas, and multi-frames of the same domain.  
 
 ## Screen Capture:
-*[Screencastify]():
-*[Greenshot]():
-*[Jing]():
+* [Screencastify]():
+* [Greenshot]():
+* [Jing]():
+* [AwesomeScreenCapture](http://www.awesomescreenshot.com/): To capture screenshots and videos
+* [BlazeMeter](https://www.blazemeter.com/) : To record http traffic and create load tests
+* [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en-GB) : Link checker that crawls through your webpage and looks for broken links.
+* [RegExp Tester](https://github.com/jarrodek/RegexpTester) - To test regular expressions
+* [Resolution Test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal) - To test the web page in different resolution
+* [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp) - Analyse the website of deviation from best practices with respect to accessibility, usability, performance, mobile access etc
+
+
 
 ## Browser plugins and extensions:
-
 * **Fiddler:**
-* **Accessibility Developer Tools:**
+
 
 ## Text Editors:
 
@@ -49,3 +63,4 @@
 
 **Resources :**
 * https://blog.testproject.io/2019/06/19/recommended-free-tools-for-testing/
+* https://www.ministryoftesting.com/dojo/series/resources/
