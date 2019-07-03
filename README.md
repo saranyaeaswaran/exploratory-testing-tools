@@ -6,8 +6,9 @@
 * [RestClient](https://github.com/wiztools/rest-client):  Tool to test HTTP/RESTful webservices.
 * [Postman](https://www.getpostman.com/) : Very versatile REST API client testing platform
 
-## Bug related tools:
-* [Bug Magnet](https://bugmagnet.org/): Bug magnet is a web-based testing tool that can be extended in the web-browser.Bug-magnet works on the input fields, text areas, and multi-frames of the same domain.  
+## Exploratory Testing tools:
+* [Bug Magnet](https://bugmagnet.org/): Bug magnet is a web-based testing tool that can be extended in the web-browser.Bug-magnet works on the input fields, text areas, and multi-frames of the same domain. 
+* [Rapid Reporter](http://testing.gershon.info/reporter/): Exploratory testing note taking based of Managing Tests Based on Sessions
 
 ## Screen Capture:
 * [Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en): Screens video recorder
@@ -30,20 +31,29 @@
 * [Resolution Test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal) - To test the web page in different resolution
 * [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp) - Analyse 
 the website of deviation from best practices with respect to accessibility, usability, performance, mobile access etc
+* [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) - Evaluate web accessibility within the Chrome browser
+* [Exploratory Testing Chrome Extension](https://chrome.google.com/webstore/detail/exploratory-testing-chrom/khigmghadjljgjpamimgjjmpmlbgmekj) - A Chrome extension designed for making web exploratory testing easier
+* [MeasureIt](https://chrome.google.com/webstore/detail/measureit/keoagpbljgpdoldcmfpgicnpijmfompi?hl=en) - MeasureIt is useful app for measurement dimensions and positioning of element on webpage. Measure it in pixels.
+* [InFormEnter](https://chrome.google.com/webstore/detail/informenter%20/becedogggoaicbphcoimgpmhodofcfck?hl=en) - Advanced form filler with pre-populate the entries and highlight of max limits
+* [AutoFormer](https://chrome.google.com/webstore/detail/autoformer%20/cjefgijpbofijpnfpncbjajignkcbbod?hl=en) - AutoFormer+ is a simple form filler. Once entered data could be saved as a template and next time all data will be filling into forms automatically.
 
 ## Diagramic Tools:
-
 [XMind](https://www.xmind.net/) : Excellent mind mapping tools to help explore and map the heuristic on exploratory testing. This is paid tool after free trial
 [Draw.io](https://www.draw.io/): Online diagram maker which can be used for flowchart, network diagram etc
+[MindMeister](https://www.mindmeister.com): Online mindmapping tool
 
-## Text Tools: 
-* [Test Data Generator](http://www.generatedata.com/#generator) : Test Data generator for testing purpose
+## Text Operations: 
 * [Letter Count](https://www.lettercount.com/): This tool will count the characters or words in a block of text. I use it for creating strings with a specific character count when I test text fields.
-* [Lorem Ipsum Generator](http://www.loremipsum.de/index_e.html): I use this tool when I need to generate large amounts of text for text fields where a user will be able to enter several paragraphs of text.
 * [Convert Case](https://convertcase.net/): This tool comes in handy when I’m testing with Postman and my assertions are expecting the exact casing for string comparison. Convert Case will set all the characters in a string to lower case, upper case, sentence case, alternating case, and more.
-* [Text Operations](https://pinetools.com/c-text-lists/) : Several text related operations like 
+* [Text Operations](https://pinetools.com/c-text-lists/) : Several text related operations
+* [TypeIt](https://www.typeit.org/) : Type accent marks, diacritics and other characters online
+
+## Test Data Generators: 
+* [Test Data Generator](http://www.generatedata.com/#generator) : Test Data generator for testing purpose
+* [Lorem Ipsum Generator](http://www.loremipsum.de/index_e.html): I use this tool when I need to generate large amounts of text for text fields where a user will be able to enter several paragraphs of text.
 * [Credit Card Number Generator](http://www.getcreditcardnumbers.com/) : Valid Credit Card Numbers for Testing Purposes 
 * [Name Geneartor](https://www.fakenamegenerator.com/) : Random name generator
+* [Mockaroo](https://www.mockaroo.com/) : Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats
 
 ## JSON Tools: 
 * [Pretty Print](http://jsonprettyprint.com/)]: JSON objects need indentation to be easily readable. This tool will take care of all of the indentation and spacing for you. This is especially helpful when you receive flattened JSON in a response and you want to be able to read through it.
@@ -56,6 +66,9 @@ the website of deviation from best practices with respect to accessibility, usab
 [GUID Test and Validate](http://guid.us/Test/GUID): I use this tool to check GUIDs to make sure that they are valid.
 
 ## Miscellaneous Tools:
+* [Formatter/Validator](https://www.freeformatter.com/): Long List of various tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more.
+* [Portable Apps](https://portableapps.com/apps): Long List of various purpose useful apps
+* [Markup Validator](https://validator.w3.org/): This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc. If you wish to validate specific content such as RSS/Atom feeds or CSS stylesheets, MobileOK content, or to find broken links
 * [Rubular](https://rubular.com/r/bsCRGzMcYE): This is a regex editor that allows you to put in a regex, add a string to test, and find out whether your string matches the regex. It is specifically designed for Ruby but can be used with other languages as well.
 * [NumVerify](https://numverify.com/): This tool is helpful when you are testing international phone numbers. It lets you know whether a given number is valid, and which country it is valid in.
 * [WePay Testing](https://developer.wepay.com/docs/articles/testing): I use this site when I need a fake bank account to test with. It also lists fake credit card numbers for use in testing. Some of the features may be specific to Chase Bank.
