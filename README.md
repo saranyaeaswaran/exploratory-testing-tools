@@ -78,7 +78,7 @@ the website of deviation from best practices with respect to accessibility, usab
 * [Online Random File Generator](https://pinetools.com/random-file-generator): When you need to test files of a very specific size, this tool uses random strings to generate a file with exactly the size you need.
 * [Beyond Compare](https://www.scootersoftware.com/download.php): Versatile file comparision tool
 
-## **Resources :** (along with personal knowledge and extensive googling)
+# * Resources * : (along with personal knowledge and extensive googling)
 * https://blog.testproject.io/2019/06/19/recommended-free-tools-for-testing/
 * https://www.ministryoftesting.com/dojo/series/resources/
 * https://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf
