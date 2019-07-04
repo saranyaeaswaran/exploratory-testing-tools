@@ -1,13 +1,8 @@
-# List of free and open source tools to help with faster and efficient exploratory and manual testing.
-
-## **Resources :** (along with personal knowledge and extensive googling)
-* https://blog.testproject.io/2019/06/19/recommended-free-tools-for-testing/
-* https://www.ministryoftesting.com/dojo/series/resources/
-* https://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf
+# List of free and open source tools to help with faster and efficient exploratory and manual testing
 
 ## API Testing Tools :
 * [httpmaster](https://www.httpmaster.net/) - Master API & Web Testing
-* [soapUI](https://www.soapui.org/) - The Most Advanced REST & SOAP Testing Tool in the World
+* [soapUI](https://www.soapui.org/) - The Most Advanced REST & SOAP Testing Tool
 * [RestClient](https://github.com/wiztools/rest-client):  Tool to test HTTP/RESTful webservices.
 * [Postman](https://www.getpostman.com/) : Very versatile REST API client testing platform
 
@@ -83,4 +78,8 @@ the website of deviation from best practices with respect to accessibility, usab
 * [Online Random File Generator](https://pinetools.com/random-file-generator): When you need to test files of a very specific size, this tool uses random strings to generate a file with exactly the size you need.
 * [Beyond Compare](https://www.scootersoftware.com/download.php): Versatile file comparision tool
 
+## **Resources :** (along with personal knowledge and extensive googling)
+* https://blog.testproject.io/2019/06/19/recommended-free-tools-for-testing/
+* https://www.ministryoftesting.com/dojo/series/resources/
+* https://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf
 
