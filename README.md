@@ -6,6 +6,12 @@
 * [RestClient](https://github.com/wiztools/rest-client):  Tool to test HTTP/RESTful webservices.
 * [Postman](https://www.getpostman.com/) : Very versatile REST API client testing platform
 
+## Accessibility testing tools :
+* [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) - Evaluate web accessibility within the Chrome browser
+* [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en) - When you run the extension, it generates a list of all the violations of the WCAG guidelines.
+* [AXE](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Monitor the web page on basis of Web Content Accessibility Guidelines and communicates and mistakes or deviations on the same instant.
+
+
 ## Browser plugins and extensions:
 * [Fiddler](https://www.telerik.com/fiddler) - Web debugging tool which logs all HTTP(S) traffic between your computer and the Internet
 * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en-GB) : Link checker that crawls through your webpage and looks for broken links.
@@ -14,11 +20,21 @@
 * [Resolution Test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal) - To test the web page in different resolution
 * [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp) - Analyse 
 the website of deviation from best practices with respect to accessibility, usability, performance, mobile access etc
-* [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) - Evaluate web accessibility within the Chrome browser
 * [Exploratory Testing Chrome Extension](https://chrome.google.com/webstore/detail/exploratory-testing-chrom/khigmghadjljgjpamimgjjmpmlbgmekj) - A Chrome extension designed for making web exploratory testing easier
 * [MeasureIt](https://chrome.google.com/webstore/detail/measureit/keoagpbljgpdoldcmfpgicnpijmfompi?hl=en) - MeasureIt is useful app for measurement dimensions and positioning of element on webpage. Measure it in pixels.
 * [InFormEnter](https://chrome.google.com/webstore/detail/informenter%20/becedogggoaicbphcoimgpmhodofcfck?hl=en) - Advanced form filler with pre-populate the entries and highlight of max limits
-* [AutoFormer](https://chrome.google.com/webstore/detail/autoformer%20/cjefgijpbofijpnfpncbjajignkcbbod?hl=en) - AutoFormer+ is a simple form filler. Once entered data could be saved as a template and next time all data will be filling into forms automatically.
+* [AutoFormer](https://chrome.google.com/webstore/detail/autoformer%20/cjefgijpbofijpnfpncbjajignkcbbod?hl=en) - AutoFormer+ is a simple form filler. Once entered data could be saved as a template and next time all data will be filling into forms automatically
+* [Web Developer Form Filler](https://www.testbytes.net/blog/27-useful-chrome-extensions-for-software-testers/) - Fill all the fields in a form using just a single key
+* [ScreenRuler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme?hl=en) - Screen ruler is an essential extension which allows for you to measure the height and width of an object on the screen
+* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) - Cosmetic issues like font size, style, and color are also to be verified by the software testers
+* [ColorZilla](https://www.colorzilla.com/) - The extension comes in handy when you want to match the color scheme of a web page to meet the design specifications
+* [SpellChecker](http://www.reverso.net/spell-checker/english-spelling-grammar/) - This helps to corrects spelling mistakes on the web page
+* [Grammerly](https://app.grammarly.com/?network=g&utm_source=google&matchtype=e&gclid=Cj0KCQjwj9LkBRDnARIsAGQ-hUcMQ-LFksh4tLKXUj6H2ORog2bIoaqC4zH2QRXhGRDSfnXTWXJofDwaAmbiEALw_wcB&placement=&q=brand&utm_content=229881030226&utm_campaign=brand_f1&utm_medium=cpc&utm_term=grammarly) - This extension not only it corrects spelling mistakes but also rectifies grammatical errors. The checking is done instantaneously and is free for download. This is a must-have extension for all those who are into e-mails, blogging, editing, and proofreading.
+* [IETab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=en) - his Chrome extension allows you to test the compatibility of your web page with all versions of Internet Explorer in Chrome Browser
+* [iMacros](https://imacros.net/) - To record actions on a particular webpage and review it later
+* [ResolutionTest](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal?hl=en) - This extension tests the application on a wide variety of screen resolutions.
+* [ClearCache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en) - https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en
+* [Proxy SwitchySharp](hhttps://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm?hl=en) - This enables you to switch between different proxies in a quick and efficient manner
 
 ## Diagramic Tools:
 * [XMind](https://www.xmind.net/) : Excellent mind mapping tools to help explore and map the heuristic on exploratory testing. This is paid tool after free trial
@@ -34,6 +50,7 @@ the website of deviation from best practices with respect to accessibility, usab
 * [GUID Test and Validate](http://guid.us/Test/GUID): To check GUIDs to make sure that they are valid. 
 
 ## Screen Capture:
+* [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en): To capture scrollable full screen screenshot
 * [Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en): Screens video recorder
 * [Greenshot](https://getgreenshot.org/): To capture screenshots
 * [AwesomeScreenCapture](http://www.awesomescreenshot.com/): To capture screenshots and videos
@@ -82,4 +99,4 @@ the website of deviation from best practices with respect to accessibility, usab
 * https://blog.testproject.io/2019/06/19/recommended-free-tools-for-testing/
 * https://www.ministryoftesting.com/dojo/series/resources/
 * https://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf
-
+* https://www.testbytes.net/blog/27-useful-chrome-extensions-for-software-testers/
