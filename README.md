@@ -100,3 +100,23 @@ the website of deviation from best practices with respect to accessibility, usab
 * https://www.ministryoftesting.com/dojo/series/resources/
 * https://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf
 * https://www.testbytes.net/blog/27-useful-chrome-extensions-for-software-testers/
+
+
+# *More Tools:
+
+	1. Whatruns and Wappalyzer- Chrome extensions to view the tech stack in web pages
+	2. https://caniuse.com/ -  Info on browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+	3. https://unminify.com/ - To make the minified code (minified using webpack or other tools) in a readable format
+	4. https://regex101.com/ - Regular expression debugger
+	5. https://www.rapidtables.com/web/tools/window-size.html - To view current window size
+	6. https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/related - Chrome extension to change the window sizes to desired state
+	7. Git Graph - VSCode extension - View a Git Graph of your repository, and easily perform Git actions from the graph.
+	8. https://postwoman.io/ - Web alternative for Postman tool
+	9. https://www.toptal.com/developers/gitignore - Create useful .gitignore files for your project
+	10. https://1loc.dev/ - 206 Favorite JavaScript Utilities in single line of code
+	11. https://doesitmutate.xyz/ - To verify if a javascript method will mutate the data or not
+	12. https://npmview.now.sh/ - To view the files of an npm package
+	13. http://shapecatcher.com/unicode/block/Devanagari - To draw and identify the character
+	14. https://explainshell.com/ - Detailed information on Shell commands
+	15. Check my links - Chrome extension to find broken links
+  16. https://yamlchecker.com/ - YAML syntax validator
